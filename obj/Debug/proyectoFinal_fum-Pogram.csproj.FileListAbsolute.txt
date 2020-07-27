@@ -1,0 +1,6 @@
+C:\Users\Ramon Felix Duran\Desktop\fundamento de programacion\proyectoFinal_fum-Pogram\bin\Debug\proyectoFinal_fum-Pogram.exe.config
+C:\Users\Ramon Felix Duran\Desktop\fundamento de programacion\proyectoFinal_fum-Pogram\bin\Debug\proyectoFinal_fum-Pogram.exe
+C:\Users\Ramon Felix Duran\Desktop\fundamento de programacion\proyectoFinal_fum-Pogram\bin\Debug\proyectoFinal_fum-Pogram.pdb
+C:\Users\Ramon Felix Duran\Desktop\fundamento de programacion\proyectoFinal_fum-Pogram\obj\Debug\proyectoFinal_fum-Pogram.csprojAssemblyReference.cache
+C:\Users\Ramon Felix Duran\Desktop\fundamento de programacion\proyectoFinal_fum-Pogram\obj\Debug\proyectoFinal_fum-Pogram.exe
+C:\Users\Ramon Felix Duran\Desktop\fundamento de programacion\proyectoFinal_fum-Pogram\obj\Debug\proyectoFinal_fum-Pogram.pdb
